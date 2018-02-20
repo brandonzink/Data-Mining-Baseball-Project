@@ -1,0 +1,31 @@
+teamName,teamID,lat,long,timeZone
+Anaheim Angels,ANA,33.799572,-117.889031,0
+Arizona Diamondbacks,ARI,33.452922,-112.038669,0
+Atlanta Braves,ATL,33.74691,-84.391239,3
+Baltimore Orioles,BAL,39.285243,-76.620103,3
+Boston Red Sox,BOS,42.346613,-71.098817,3
+Chicago Cubs,CHN,41.947201,-87.656413,2
+Chicago White Sox,CHA,41.830883,-87.635083,2
+Cincinnati Reds,CIN,39.107183,-84.507713,3
+Cleveland Indians,CLE,41.495149,-81.68709,3
+Colorado Rockies,COL,39.75698,-104.965329,1
+Detroit Tigers,DET,42.346354,-83.059619,3
+Florida Marlins,FLO,25.954428,-80.238164,3
+Houston Astros,HOU,29.76045,-95.369784,2
+Kansas City Royals,KCA,39.10222,-94.583559,2
+Los Angeles Dodgers,LAN,34.072437,-118.246879,0
+Milwaukee Brewers,MIL,43.04205,-87.905599,2
+Minnesota Twins,MIN,44.974346,-93.259616,2
+Washington Nationals,WAS,38.87,-77.01,3
+New York Mets,NYN,40.75535,-73.843219,3
+New York Yankees,NYA,40.819782,-73.929939,3
+Oakland Athletics,OAK,37.74923,-122.196487,0
+Philadelphia Phillies,PHI,39.952313,-75.162392,3
+Pittsburgh Pirates,PIT,40.461503,-80.008924,3
+St. Louis Cardinals,SLN,38.629683,-90.188247,2
+San Diego Padres,SDN,32.752148,-117.143635,0
+San Francisco Giants,SFN,37.77987,-122.389754,0
+Seattle Mariners,SEA,47.60174,-122.330829,0
+Tampa Bay Devil Rays,TBA,27.768487,-82.648191,3
+Texas Rangers,TEX,32.750156,-97.081117,2
+Toronto Blue Jays,TOR,43.641653,-79.3917,3
