@@ -18,7 +18,7 @@ We then used the Pythagorean Winning Percentage Forumla (also referred to as the
 The most direct application is that in the 2017 MLB season, if it weren't for the travel benefit that the Twins gained by being located close to division rivals, the Brewers actually should've been the second wildcard team in the AL. However, a full and more detailed list of applications can be found in the paper, linked near the bottom of this readme.  
   
 ## Video
-[Insert link here].  
+https://youtu.be/e8gxEGMVbBE
   
 ## Paper
 [Insert link here}.
