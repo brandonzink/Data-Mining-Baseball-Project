@@ -21,4 +21,4 @@ The most direct application is that in the 2017 MLB season, if it weren't for th
 https://youtu.be/e8gxEGMVbBE
   
 ## Paper
-[Insert link here}.
+https://github.com/brandonzink/Data-Mining-Baseball-Project/blob/master/12_EffectOfTravelOnBaseballPerformance_Part4.pdf
